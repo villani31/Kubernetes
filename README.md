@@ -13,9 +13,22 @@ Um projeto desenvolvido para entendimento de conceitos básicos sobre Kubernetes
 Sistema de noticias sendo 1 cluster e 3 pods:
 
 <p align="center">
-  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/Human-Resource-Analytics.jpeg" alt="RH"height=400px >
+  <img src="https://github.com/villani31/Kubernetes/tree/images/img-01.png" alt="Kubernetes"height=400px >
 </p>
 
 <p align="center">
-  <img src="https://github.com/villani31/analise-rh/blob/main/imagens/Human-Resource-Analytics.jpeg" alt="RH"height=400px >
+  <img src="https://github.com/villani31/Kubernetes/tree/images/img-02.png" alt="Kubernetes"height=400px >
 </p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Kubernetes/tree/images/img-03.png" alt="Kubernetes"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Kubernetes/tree/images/img-04.png" alt="Kubernetes"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Kubernetes/tree/images/img-05.png" alt="Kubernetes"height=400px >
+</p>
+
