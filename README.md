@@ -13,18 +13,18 @@ Um projeto desenvolvido para entendimento de conceitos básicos sobre Kubernetes
 Sistema de noticias sendo 1 cluster e 3 pods:
 
 <p align="center">
-  <img src="https://github.com/villani31/Kubernetes/blob/main/images/img-01.png" alt="Kubernetes"height=150px >
+  <img src="https://github.com/villani31/Kubernetes/blob/main/images/img-01.png" alt="Kubernetes"height=80px >
 </p>
 
 <p align="center">
-  <img src="https://github.com/villani31/Kubernetes/blob/main/images/img-02.png" alt="Kubernetes"height=400px >
+  <img src="https://github.com/villani31/Kubernetes/blob/main/images/img-02.png" alt="Kubernetes"height=80px >
 </p>
 
 <p align="center">
-  <img src="https://github.com/villani31/Kubernetes/blob/main/images/img-03.png" alt="Kubernetes"height=400px >
+  <img src="https://github.com/villani31/Kubernetes/blob/main/images/img-03.png" alt="Kubernetes"height=80px >
 </p>
 
 <p align="center">
-  <img src="https://github.com/villani31/Kubernetes/blob/main/images/img-04.png" alt="Kubernetes"height=400px >
+  <img src="https://github.com/villani31/Kubernetes/blob/main/images/img-04.png" alt="Kubernetes"height=80px >
 </p>
 
